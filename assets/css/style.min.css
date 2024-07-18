@@ -1613,7 +1613,7 @@ a:hover {
 .menu-bar.v1 .menu-right,
 .menu-bar.v2 .menu-right,
 .menu-bar.v3 .menu-right {
-  width: calc(100% - 150px);
+  width: calc(100% - 350px);
   gap: 25px;
   -webkit-box-pack: end;
   -ms-flex-pack: end;
